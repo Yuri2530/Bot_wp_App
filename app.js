@@ -52,6 +52,9 @@ const withOutSession = () => { */
         console.log(message.body);
     });
 
+
+    client.initialize();
+
 /*     client.initialize();
 }
 

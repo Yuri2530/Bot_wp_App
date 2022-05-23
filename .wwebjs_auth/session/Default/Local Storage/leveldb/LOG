@@ -1,2 +1,3 @@
-2022/05/20-14:43:47.725 7103 Creating DB /Users/yurisanguino/Desktop/BOT-WHATSAPP/.wwebjs_auth/session/Default/Local Storage/leveldb since it was missing.
-2022/05/20-14:43:47.756 7103 Reusing MANIFEST /Users/yurisanguino/Desktop/BOT-WHATSAPP/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2022/05/23-15:26:21.128 9303 Reusing MANIFEST /Users/yurisanguino/Desktop/Bot_wp_App/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2022/05/23-15:26:21.129 9303 Recovering log #3
+2022/05/23-15:26:21.130 9303 Reusing old log /Users/yurisanguino/Desktop/Bot_wp_App/.wwebjs_auth/session/Default/Local Storage/leveldb/000003.log 
